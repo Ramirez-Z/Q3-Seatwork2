@@ -1,0 +1,32 @@
+.icon{
+	width: 75px;
+
+}
+
+p{
+	font-family: protest riot;
+	font-size: 16.5px;
+}
+
+form {
+	font-family: protest riot;
+	font-size: 17px;
+	/*color: whitesmoke; 
+	font-size: 25px;*/
+}
+
+
+.header{
+	font-family: protest riot;
+	font-size: 55px;	
+}
+
+th{
+	font-family: varela round;
+}
+
+.main{
+	background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701884904.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
